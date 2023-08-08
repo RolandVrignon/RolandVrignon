@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @RolandVrignon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bonjour 👋, Je suis Roland Vrignon
 
-<!---
-RolandVrignon/RolandVrignon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis un développeur passionné par le développement web et le serveur. J'aime créer des applications web qui apportent de la valeur et me font gagner de l'argent.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RolandVrignon.RolandVrignon)
+
+## Mes statistiques GitHub 📊
+
+![Roland's GitHub stats](https://github-readme-stats.vercel.app/api?username=RolandVrignon&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandVrignon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Technologies & Outils 🔧
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+## Me contacter 🌐
+
+- Portfolio: [https://votreportfolio.com](#)
+- LinkedIn: [Roland Vrignon](https://www.linkedin.com/in/roland-vrignon/)
+- Email: mail@example.com
+
+N'hésitez pas à consulter mes projets ci-dessous 👇
