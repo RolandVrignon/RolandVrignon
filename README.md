@@ -6,12 +6,13 @@ Je suis un développeur passionné par le développement web et le serveur. J'ai
 
 ## Mes statistiques GitHub 📊
 
-![Roland's GitHub stats](https://github-readme-stats.vercel.app/api?username=RolandVrignon&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandVrignon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies & Outils 🔧
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ## Me contacter 🌐
